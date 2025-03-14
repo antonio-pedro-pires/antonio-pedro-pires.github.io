@@ -2,19 +2,14 @@ title: Title of your CV site
 profile_img: /assets/img/profile.webp
 icon_img: /assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "Antonio Pedro Fangueiro Pires"
+job: "Master's student at the university of Fribourg"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+phone_number: 
+address: Fribourg, Switzerland
+email: antoniopedro@fangpires.com
+linkedin_username: antonio pedro fangueiro pires
+github_username: antonio-pedro-pires
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
